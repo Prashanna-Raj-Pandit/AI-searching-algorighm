@@ -6,7 +6,8 @@
 
 **Overview**
 =
-![alt text](image.png)
+<img src="image.png" height=500 width =500> </img>
+
 This project implements fundamental search algorithms applied to Pacman maze navigation. The goal is to build generic search algorithms and apply them to solve pathfinding problems in a Pacman environment, including fixed goal search, collecting all dots, and corner problems.
 
 The project emphasizes understanding and implementing:
