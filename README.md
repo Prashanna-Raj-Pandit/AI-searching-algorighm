@@ -22,6 +22,12 @@ The project emphasizes understanding and implementing:
 
 It also includes designing heuristic functions for advanced search problems like the CornersProblem and FoodSearchProblem.
 
+## Requirement
+
+``
+Python 2.7.18
+```
+
 ## Run autograder to check corectness
 ```
 python autograder.py
